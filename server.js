@@ -53,11 +53,11 @@ app.get('/api/animals', (req, res) => {
     res.json(results);
 })
 
-// app.get('/api/animals', (req, res) => {
-//     let results = animals;
-//     console.log(req.query)
-//     res.json(results);
-//   });
+app.get('/', (req, res) => {
+    let results = animals;
+    console.log(req.query)
+    res.json(results);
+  });
 
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}!`);
