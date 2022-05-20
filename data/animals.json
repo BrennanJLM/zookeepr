@@ -120,6 +120,48 @@
     },
     {
       "id": "12"
+    },
+    {
+      "name": "cdsd",
+      "species": "cddc",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "cdsd",
+      "species": "cddc",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "cdd",
+      "species": "dcdc",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "fefe",
+      "species": "bfdb",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
